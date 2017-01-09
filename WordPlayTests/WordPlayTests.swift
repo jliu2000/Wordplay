@@ -2,7 +2,7 @@
 //  WordPlayTests.swift
 //  WordPlayTests
 //
-//  Created by jliu on 11/4/16.
+//  Created by Jason Liu on 11/4/16.
 //  Copyright © 2016 Jason Liu. All rights reserved.
 //
 
